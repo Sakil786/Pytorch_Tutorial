@@ -14,4 +14,6 @@ Whether you're taking your first steps into the realm of neural networks or seek
 
 **5.[TextClassification](https://github.com/Sakil786/Pytorch_Tutorial/tree/main/TextClassification "TextClassification")**
 
+**6.[PyTorch_CrashCourse](https://github.com/Sakil786/Pytorch_Tutorial/tree/main/PyTorch_CrashCourse "PyTorch_CrashCourse")**
+
 
