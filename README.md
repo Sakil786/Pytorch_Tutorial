@@ -16,4 +16,6 @@ Whether you're taking your first steps into the realm of neural networks or seek
 
 **6.[PyTorch_CrashCourse](https://github.com/Sakil786/Pytorch_Tutorial/tree/main/PyTorch_CrashCourse "PyTorch_CrashCourse")**
 
+**6.[linear_regression_stockprice](https://github.com/Sakil786/linear_regression_stockprice "linear_regression_stockprice")**
+
 
